@@ -1,7 +1,7 @@
 # My Github Profile;
 
  - `Javascript`, `C++`, `PHP`, `HTML`, `CSS`;
- - `Backend` and `Front-End`
+ - Attending the first semester of security information at `unip`;
 
 # About me;
  
