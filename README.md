@@ -1,8 +1,7 @@
 <img align='right' src='https://cdn.discordapp.com/emojis/810934476711919646.png?v=1' width='95'>
 
-<pre><code> -<span class="ruby"> Web Development</span></code></pre>
-
 ```tex
-I'm a sicko, i have 17 years.
+- I'm a sicko, i have 17 years.
+- Web Development and C++
 ```
 
