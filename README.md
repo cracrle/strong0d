@@ -2,7 +2,7 @@
 
 <pre><code> -<span class="ruby"> Web Development</span></code></pre>
 
-```dix
+```tex
 $ I'm a sicko, i have 17 years. #
 ```
 
