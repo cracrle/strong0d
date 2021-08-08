@@ -1,3 +1,3 @@
-<img align='right' src='https://cdn.discordapp.com/attachments/797190863007645726/812756757889679430/PNG_67.png' width='150'>
+<img align='right' src='https://cdn.discordapp.com/emojis/810934476711919646.png?v=1' width='65'>
 
 <pre><code> -<span class="ruby"> Web Development</span></code></pre>
