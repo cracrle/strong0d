@@ -1,1 +1,1 @@
-<span style="color:red">some **This is Red Bold.** text</span>
+<strong style="color: red; opacity: 0.80;">My Bold Text, in red color.</strong>
