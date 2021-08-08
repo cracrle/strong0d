@@ -1,7 +1,9 @@
 <img align='right' src='https://cdn.discordapp.com/emojis/810934476711919646.png?v=1' width='105'>
 
 
-- **Languages:** `Javascript`, `C++`, `PHP`, `HTML`, `CSS`;
-- **Animes:** `Kuroko no Basket`, `Saiki Kusuo`;
+<ul>
+<li><strong>Languages:</strong> <code>Javascript</code>, <code>C++</code>, <code>PHP</code>, <code>HTML</code>, <code>CSS</code>;</li>
+<li><strong>Animes:</strong> <code>Kuroko no Basket</code>, <code>Saiki Kusuo</code>;</li>
+</ul>
 
 
